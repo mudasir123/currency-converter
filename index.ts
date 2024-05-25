@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 
 import inquirer from "inquirer";
 const api = "https://v6.exchangerate-api.com/v6/0a4d9f07d8bb1a0f0e235bf7/latest/USD";
